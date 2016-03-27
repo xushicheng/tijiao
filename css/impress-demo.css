@@ -288,7 +288,7 @@ a:focus {
     Let's move to 'big thoughts' with centered text and custom font sizes.
 */
 #big {
-    width: 600px;
+    width: 900px;
     text-align: center;
     font-size: 60px;
     line-height: 1;
@@ -309,7 +309,7 @@ a:focus {
     'Tiny ideas' just need some tiny styling.
 */
 #tiny {
-    width: 700px;
+    width: 1000px;
     text-align: center;
     font-size: 60px;
     line-height: 1;
@@ -323,7 +323,9 @@ a:focus {
 /*
     This step has some animated text ...
 */
-#ing { width: 500px }
+#ing {
+  width: 500px;
+  font-size: 70px; }
 
 /*
     ... so we define display to `inline-block` to enable transforms and
@@ -705,3 +707,83 @@ a:focus {
     Thanks for reading. I hope you enjoyed it at least as much as I enjoyed writing it
     for you.
 */
+#img1 {
+    width: 1260px;
+    height: 630px;
+    /* Yoda Icon :: Pixel Art from Star Wars http://www.pixeljoint.com/pixelart/1423.htm */
+    background-image: url(../1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#img2 {
+    width: 1260px;
+    height: 630px;
+    /* Yoda Icon :: Pixel Art from Star Wars http://www.pixeljoint.com/pixelart/1423.htm */
+    background-image: url(../2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#img3 {
+    width: 1260px;
+    height: 630px;
+    /* Yoda Icon :: Pixel Art from Star Wars http://www.pixeljoint.com/pixelart/1423.htm */
+    background-image: url(../3.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#img4 {
+    width: 1260px;
+    height: 630px;
+    /* Yoda Icon :: Pixel Art from Star Wars http://www.pixeljoint.com/pixelart/1423.htm */
+    background-image: url(../4.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+#img5 {
+    width: 1260px;
+    height: 630px;
+    /* Yoda Icon :: Pixel Art from Star Wars http://www.pixeljoint.com/pixelart/1423.htm */
+    background-image: url(../5.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+#img6 {
+    width: 1260px;
+    height: 630px;
+    /* Yoda Icon :: Pixel Art from Star Wars http://www.pixeljoint.com/pixelart/1423.htm */
+    background-image: url(../6.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+#img7 {
+    width: 1260px;
+    height: 630px;
+    /* Yoda Icon :: Pixel Art from Star Wars http://www.pixeljoint.com/pixelart/1423.htm */
+    background-image: url(../7.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+#img8 {
+    width: 1260px;
+    height: 630px;
+    /* Yoda Icon :: Pixel Art from Star Wars http://www.pixeljoint.com/pixelart/1423.htm */
+    background-image: url(../8.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+#img9 {
+    width: 1260px;
+    height: 630px;
+    /* Yoda Icon :: Pixel Art from Star Wars http://www.pixeljoint.com/pixelart/1423.htm */
+    background-image: url(../9.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+}
